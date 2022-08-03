@@ -13,7 +13,7 @@ int lastDirection = 0; // last direction the snake moved
 int speed = 5; // speed at which the snake moves
 int score = 0; 
 
-// Author: Cassidy
+
 // Fruit =============================================================
 
 struct fruit
@@ -70,7 +70,6 @@ void freeFruit() {
 
 
 // =================== SNAKE CODE =========================
-// Author: Aidan Daley and Darby Scott
  
 // This is the structure that the snake will be made of
 // Each part of the body links to the next part of the body until you reach the tail.
@@ -273,7 +272,7 @@ void drawSnake(Snake *head) {
 
 //============== End of Snake Code ========================
  
-// Author: Cassidy
+
 // Draws the board used in the game
 void snakepit()
 {   
