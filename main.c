@@ -1,5 +1,3 @@
- 
-//https://github.com/AidanPDaley/SnakeGame/tree/main
 // CS 355
 // Snake Game
 // Cassidy, Tori, Darby, Aidan
